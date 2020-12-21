@@ -4,7 +4,7 @@ Essentials for a web based project.
 ## Tools
 1. Bootstrap CSS file.
 2. Boostrap JS file.
-3.Jquery JS file.
+3. Jquery JS file.
 
 ## Sources.
 ### Bootstrap
